@@ -5,7 +5,7 @@ Desarrollador Web • Amante del Frontend
 [![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://www.instagram.com/aniyt_20)
 [![Twitter](https://img.icons8.com/fluency/48/000000/twitter.png)](https://x.com/AniYT20)
 [![Twitch](https://img.icons8.com/color/48/000000/twitch--v2.png)](https://www.twitch.tv/aniyt_20)
-[![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/anigames-undefined-32b26838)
+[![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/AniYT20)
 [![Gmail](https://img.icons8.com/fluency/48/000000/apple-mail.png)](mailto:aniolmillan@gmail.com)
 
 ---
