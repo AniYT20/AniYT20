@@ -1,4 +1,4 @@
-# Hola 👋, soy AniYT20
+# Hola 👋, soy AniYT20/ Aniol Millan
 Desarrollador Web • Amante del Frontend
 
 [![YouTube](https://img.icons8.com/color/48/000000/youtube-play.png)](https://www.youtube.com/@tuusuario)
