@@ -1,12 +1,12 @@
 # Hola 👋, soy AniYT20/ Aniol Millan
 Desarrollador Web • Amante del Frontend
 
-[![YouTube](https://img.icons8.com/color/48/000000/youtube-play.png)](https://www.youtube.com/@tuusuario)
-[![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://www.instagram.com/tuusuario)
-[![Twitter](https://img.icons8.com/fluency/48/000000/twitter.png)](https://twitter.com/tuusuario)
-[![Twitch](https://img.icons8.com/color/48/000000/twitch--v2.png)](https://www.twitch.tv/tuusuario)
-[![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/tuusuario)
-[![Gmail](https://img.icons8.com/fluency/48/000000/apple-mail.png)](mailto:tuemail@gmail.com)
+[![YouTube](https://img.icons8.com/color/48/000000/youtube-play.png)](https://www.youtube.com/@AniYT20)
+[![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://www.instagram.com/aniyt_20)
+[![Twitter](https://img.icons8.com/fluency/48/000000/twitter.png)](https://x.com/AniYT20)
+[![Twitch](https://img.icons8.com/color/48/000000/twitch--v2.png)](https://www.twitch.tv/aniyt_20)
+[![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/anigames-undefined-32b26838)
+[![Gmail](https://img.icons8.com/fluency/48/000000/apple-mail.png)](mailto:aniolmillan@gmail.com)
 
 ---
 
