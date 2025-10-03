@@ -31,6 +31,9 @@ Me encanta experimentar con nuevas tecnologías, mejorar mis proyectos y compart
 [![Git](https://img.icons8.com/color/48/000000/git.png)](https://git-scm.com/)
 [![GitHub](https://img.icons8.com/fluency/48/000000/github.png)](https://github.com/)
 
+**Automatización:**  
+[![n8n](https://avatars.githubusercontent.com/u/45487711?s=48&v=4)](https://n8n.io/)
+
 **Herramientas de productividad:**  
 [![Notion](https://img.icons8.com/fluency/48/000000/notion.png)](https://www.notion.so/)
 [![Visual Studio Code](https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png)](https://code.visualstudio.com/)
@@ -38,5 +41,4 @@ Me encanta experimentar con nuevas tecnologías, mejorar mis proyectos y compart
 ---
 
 ## 📁 Proyectos destacados
-
 ---
