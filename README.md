@@ -13,7 +13,7 @@
 ## 👨‍💻 Sobre mí
 
 ¡Hola! Soy **AniYT20**, un desarrollador web **apasionado por el frontend**.  
-Comencé a aprender desarrollo web a principios de este año y desde entonces disfruto creando **páginas bonitas y funcionales**.  
+Comencé a aprender desarrollo web a principios de 2025 y desde entonces disfruto creando **páginas bonitas y funcionales**.  
 Me encanta experimentar con nuevas tecnologías, mejorar mis proyectos y compartir lo que aprendo.  
 
 🎯 **Objetivo:** seguir creciendo, colaborar en proyectos interesantes y aportar al mundo del código abierto.
